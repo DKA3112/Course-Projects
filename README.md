@@ -1,5 +1,5 @@
 # Course-Projects
-## ⭐ Ongoing Projects:
+## ⭐Ongoing Projects:
 - [Designing a Chemical Project Plant](https://drive.google.com/drive/folders/14wXlss1Yzg06Xh3yXo_vtu5V7jLllaCw?usp=drive_link)
 ## ⭐Completed Projects:
 - [Self-Organization in an Open Reaction Network](https://drive.google.com/drive/folders/1IZRgY8P-wNFHO4dA53yhvjcpmwR9Svcx?usp=drive_link)
